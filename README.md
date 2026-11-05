@@ -9,7 +9,7 @@ A full-stack Django web app that connects to a user's Spotify account and genera
 - Django
 - Spotify Web API
 - OpenAI API
-- SQ
+- SQLite
 - HTML/CSS
 
 ## Features
